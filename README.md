@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hectormanu&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cristiansosaespadas&theme=dracula&hide_border=true)
 
-**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/hectormanu/count.svg)
+**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/cristiansosaespadas/count.svg)
